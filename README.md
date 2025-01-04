@@ -47,16 +47,3 @@ Built with **Flask**, the application provides a simple, intuitive interface for
 ### Working Example
 ![Working Example](images/img-parsed1.png)
 ![Working Example](images/img-parsed2.png)
-
-
-
-
-project_directory/
-│
-├── app.py                # Main Flask application for handling routes
-├── resumeparser.py       # Functions for extracting resume information using OpenAI API
-├── __DATA__/             # Folder for storing uploaded resumes
-├── config.yaml           # Configuration file containing OpenAI API key
-└── templates/
-    └── index.html        # HTML file for rendering the UI
-
