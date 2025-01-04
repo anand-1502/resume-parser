@@ -42,7 +42,7 @@ Built with **Flask**, the application provides a simple, intuitive interface for
 ### User Interface
 ![UI Placeholder](images/img1.png)
 ![UI Placeholder](images/img-upload.png)
-![UI Placeholder](images/uploaded.png)
+![UI Placeholder](images/img-uploaded.png)
 
 ### Working Example
 ![Working Example](images/img-parsed1.png)
