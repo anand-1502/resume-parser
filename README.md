@@ -40,10 +40,10 @@ Built with **Flask**, the application provides a simple, intuitive interface for
 ## 🖼️ Screenshots
 
 ### User Interface
-![UI Placeholder](images/img1.png)
-![UI Placeholder](images/img-upload.png)
-![UI Placeholder](images/img-uploaded.png)
+![UI Placeholder](img1.png)
+![UI Placeholder](img-upload.png)
+![UI Placeholder](img-uploaded.png)
 
 ### Working Example
-![Working Example](images/img-parsed1.png)
-![Working Example](images/img-parsed2.png)
+![Working Example](img-parsed1.png)
+![Working Example](img-parsed2.png)
